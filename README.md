@@ -5,3 +5,4 @@ Dengue_Fever_in_Tainan-Taiwan_Analysis¶
 完成日期:2018/8/8
 建議以PC全頁面閱讀
 Please read this article with PC (full page).
+http://nbviewer.jupyter.org/github/JohnnyBaseballman/Dengue_Fever_in_Tainan-Taiwan_Analysis/blob/master/HW2.ipynb
